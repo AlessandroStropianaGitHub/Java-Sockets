@@ -5,12 +5,15 @@ Realizzazione di una connessione Client/Server usando i Sockets in Java
 Obitettivo del progetto:
 	- Inviare linee di testo da un Client ad un Server.
 
-
-#Istruzioni
-
-##Prerequisiti
+#Prerequisiti
 	- Java SDK (Software Development Kit) - programma per la compilazione (javac) da codice in Java a ByteCode. L'installazione comprende anche Java JRE (Java Runtime Envirorment) che fornisce la Virtual Machine (VM) su cui far eseguire il ByteCode.
 	- NetBeans IDE (Integrated Development Envirorment)
+
+#Istruzioni (1-2)
+
+1. Connettere un Client al Server
+2. Fare in modo che venga richiesto il Nickname. Successivamente inserire un messaggio che verrà visualizzato dal Server (invece della 	    porta)
+3. Fare in modo che, digitando "ListaUtenti", compaia la lista dei Clients connessi
 
 
 ##Come accedere ai files Java:
@@ -38,6 +41,14 @@ Obitettivo del progetto:
   	1. cd Desktop (per andare nella directory "Desktop")
   	2. cd NetBeansProjects (per andare nella directory "NetBeansProjects")
   	3. cd JavaSockets_Client (per andare nella directory "JavaSockets_Server")
+
+
+#Istruzioni (3)
+ 
+1. Possibilita' di iniziare una o più "group chat" fornendo per ogni chat il "Soggetto della discussione"
+2. Possibilita' di invitare uno o piu' utenti conessi a entrare nella "goup chat"
+3. Possibilita' di uscire dalla "group chat"
+
 
 
 #Licenza
